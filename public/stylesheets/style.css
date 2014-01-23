@@ -12,3 +12,6 @@ body { font-family: Helvetica, Arial, sans-serif; font-size: 13px; padding: 0 0 
 
 .fn-gantt .ganttPurple { background-color: #DCBFEE; }
 .fn-gantt .ganttPurple .fn-label { color: #4F1D6B; }
+
+.fn-gantt .ganttGreen { background-color: #00FFCC; }
+.fn-gantt .ganttGreen .fn-label { color: #336666; }
